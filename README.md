@@ -1,6 +1,7 @@
 # Hi there, I'm Dan 👋
 
 ## 🚀 About Me
+- 🎓 Math Undergraduate Students at IPB University
 - 🎓 Passionate about **Mathematics**, **Computational Mathematics**, **Finance**, and **Quantitative Analysis**  
 - 📚 Currently learning **Python**, **Data Science**, and always open to exploring new programming languages  
 - 🔍 Interested in **research** and **data-driven projects** that solve real-world problems  
@@ -26,7 +27,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me (for collabs, permissions, or just to say hi)
 - Email: *danielsitumo06@gmail.com*  
 - LinkedIn: *linkedin.com/danjas*  
 - GitHub: [@danmath-py](https://github.com/danmath-py)  
