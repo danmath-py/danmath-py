@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @danmath-py
-- 👀 I’m interested in Math, Computer Science, and Economics
-- 🌱 I’m currently learning Python, Data Science, and are open for learning other languages
-- 💞️ I’m looking to collaborate on some cool research and data science project
-- 📫 How to reach me 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a level 69 gyatt sigma
+# Hi there, I'm Dan 👋
 
-<!---
-danmath-py/danmath-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 🎓 Passionate about **Mathematics**, **Computational Mathematics**, **Finance**, and **Quantitative Analysis**  
+- 📚 Currently learning **Python**, **Data Science**, and always open to exploring new programming languages  
+- 🔍 Interested in **research** and **data-driven projects** that solve real-world problems  
+- 🤝 Open to collaborating on **computational math research**, **finance models**, or **data science projects**  
+
+---
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmath-py&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danmath-py&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to Reach Me
+- Email: *(add your email here)*  
+- LinkedIn: *(add your LinkedIn here)*  
+- GitHub: [@danmath-py](https://github.com/danmath-py)  
+
+---
+
+## 😄 Pronouns
+- He/Him  
+
+## ⚡ Fun Fact
+- I'm a proud **Level 69 gyatt sigma** 🐉 (ask me about it!)  
+
+---
+> _“Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.”_ – William Paul Thurston
