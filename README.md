@@ -27,17 +27,14 @@
 ---
 
 ## 📫 How to Reach Me
-- Email: *(add your email here)*  
-- LinkedIn: *(add your LinkedIn here)*  
+- Email: *danielsitumo06@gmail.com*  
+- LinkedIn: *linkedin.com/danjas*  
 - GitHub: [@danmath-py](https://github.com/danmath-py)  
 
 ---
 
 ## 😄 Pronouns
-- He/Him  
-
-## ⚡ Fun Fact
-- I'm a proud **Level 69 gyatt sigma** 🐉 (ask me about it!)  
+- He/Him 
 
 ---
 > _“Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.”_ – William Paul Thurston
