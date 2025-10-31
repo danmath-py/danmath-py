@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🎓 Math Undergraduate Students at IPB University
-- 🎓 Passionate about **Mathematics**, **Computational Mathematics**, **Finance**, and **Quantitative Analysis**  
+- 🎓 Passionate about **Mathematical Modelling**, **Computational Mathematics**, **Finance**, and **Quantitative Analysis**  
 - 📚 Currently learning **Python**, **Data Science**, and always open to exploring new programming languages  
-- 🔍 Interested in **research** and **data-driven projects** that solve real-world problems  
+- 🔍 Interested in **research**, **projects**, and **data-driven projects** that solve real-world problems  
 - 🤝 Open to collaborating on **computational math research**, **finance models**, or **data science projects**  
 
 ---
