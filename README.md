@@ -1,11 +1,11 @@
 # Hi there, I'm Dan 👋
 
 ## 🚀 About Me
-- 🎓 Math Undergraduate Students at IPB University
-- 🎓 Passionate about **Mathematical Modelling**, **Computational Mathematics**, **Finance**, and **Quantitative Analysis**  
-- 📚 Currently learning **Python**, **Data Science**, and always open to exploring new programming languages  
-- 🔍 Interested in **research**, **projects**, and **data-driven projects** that solve real-world problems  
-- 🤝 Open to collaborating on **computational math research**, **finance models**, or **data science projects**  
+- 🎓 Third-year Mathematics Undergraduate at IPB University
+- 🎓 Passionate about **Applied Mathematics**, **AI/ML/NN**, **Data Science**, and **Finance**
+- 📚 Currently learning **Machine Learning (ML)** and **Neural Networks (NN)**
+- 🔍 Interested in **research**, **projects**, and **data-driven projects** that solve real-world problems
+- 🤝 Open to collaborating on **applied math research**, **AI/ML projects**, **finance models**, or **data science projects**
 
 ---
 
@@ -22,20 +22,20 @@
 ---
 
 ## 📊 GitHub Stats
-![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmath-py&show_icons=true&theme=tokyonight)  
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmath-py&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danmath-py&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 How to Reach Me (for collabs, permissions, or just to say hi)
-- Email: *danielsitumo06@gmail.com*  
-- LinkedIn: *linkedin.com/danjas*  
-- GitHub: [@danmath-py](https://github.com/danmath-py)  
+- Email: *danielsitumo06@gmail.com*
+- LinkedIn: *linkedin.com/danjas*
+- GitHub: [@danmath-py](https://github.com/danmath-py)
 
 ---
 
 ## 😄 Pronouns
-- He/Him 
+- He/Him
 
 ---
 > _“Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding.”_ – William Paul Thurston
