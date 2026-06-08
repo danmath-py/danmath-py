@@ -21,14 +21,10 @@ I am an applied mathematics student specializing in stochastic modeling, quantit
 ## 📐 Actuarial & Professional Progress
 
 To complement my academic background, I am actively tracking against professional actuarial benchmarks. Currently trading my sleep schedule to prepare for these:
-┌──────────────────────────────────────────────────────────────────────────┐
-│ PERSATUAN AKTUARIS INDONESIA (PAI) EXAM TRACKER                          │
-├──────┬──────────────────────┬────────────────────────────────────────────┤
-│ CODE │ FOCUS AREA           │ STATUS                                     │
-├──────┼──────────────────────┼────────────────────────────────────────────┤
-│ A10  │ Matematika Keuangan  │ Preparing / Fuelled by coffee              │
-│ A20  │ Probabilitas & Stat. │ Preparing / Praying to the normal curve    │
-└──────┴──────────────────────┴────────────────────────────────────────────┘
+| CODE | FOCUS AREA | STATUS |
+| :--- | :--- | :--- |
+| **A10** | Matematika Keuangan *(Financial Mathematics)* | Preparing / Fuelled by coffee |
+| **A20** | Probabilitas dan Statistika *(Probability & Statistics)* | Preparing / Praying to the normal curve |
 ---
 
 ## 🛠️ Technical Baseline & Domain Stack
