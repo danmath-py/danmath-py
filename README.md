@@ -1,7 +1,7 @@
 # 📐 DANIEL JUNIRO ASLACRIS SITUMORANG
 
 **Quantitative Forecasting | Actuarial Science | Applied Mathematics**  
-*Third-Year Mathematics Undergraduate at IPB University*
+*Bachelor-Master FastTrack Student in Applied Mathematics at IPB University*
 
 [![Email](https://img.shields.io/badge/Email-danielsitumo06%40gmail.com-D12424?style=flat-square&logo=gmail&logoColor=white)](mailto:danielsitumo06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danjas-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/danjas)
@@ -11,26 +11,37 @@
 
 ## 🏛️ Executive Summary
 
-I am an applied mathematics student specializing in stochastic modeling, quantitative risk management, and statistical forecasting. My work bridges the gap between classical actuarial frameworks and modern machine learning/deep learning architectures to model financial risk and multi-horizon time series. 
+I am an applied mathematics fast-track student bridging the gap between rigorous academic research and professional industry application. My core focus lies in utilizing mathematics and statistics to solve complex risk management and quantitative problems, though my analytical toolkit is highly adaptable to a wide array of domains. 
 
 * **Core Focus:** Parametric/Nonparametric Copula Methods, Stochastic Asset Liability Modeling, Multi-Horizon Time Series Forecasting (Classical ML & Deep Learning).
 * **Methodological Philosophy:** Combining statistical rigor and distribution assumption testing with high-performance computational models. *(In short: making sure the math actually checks out before letting the neural network run wild).*
 
 ---
 
+## 🤝 Let's Collaborate
+
+I am actively balancing my focus across both the academic and professional spheres and am highly open to new opportunities:
+* **Professional:** Freelance data work, industry collaborations, and consulting in quantitative analysis, financial engineering, or risk modeling.
+* **Academic:** Research collaborations or—should a passing professor find my portfolio compelling—a doctorate offer or assistantship doctoral scholarship.
+* **General:** Open to tackling all sorts of complex analytical and mathematical problems beyond the financial domain.
+
+---
+
 ## 📐 Actuarial & Professional Progress
 
 To complement my academic background, I am actively tracking against professional actuarial benchmarks. Currently trading my sleep schedule to prepare for these:
+
 | CODE | FOCUS AREA | STATUS |
 | :--- | :--- | :--- |
 | **A10** | Matematika Keuangan *(Financial Mathematics)* | Preparing / Fuelled by coffee |
 | **A20** | Probabilitas dan Statistika *(Probability & Statistics)* | Preparing / Praying to the normal curve |
+
 ---
 
 ## 🛠️ Technical Baseline & Domain Stack
 
 ### 🧠 Computational & Stochastic Modeling
-Languages      │ Python  •  Julia  •  SQL  •  JavaScript
+Languages      │ Julia  •  Python  •  SQL  •  JavaScript
 Libraries      │ NumPy  •  Pandas  •  SciPy  •  Statsmodels  •  Scikit-Learn  •  PyTorch
 Frameworks     │ Monte Carlo Simulations  •  Time Series (ARIMA/GARCH)  •  Deep Sequence (LSTM, Transformers)
 
@@ -41,24 +52,16 @@ DevOps/VCS     │ Git  •  GitHub Gitflow Workflow
 
 ---
 
-## 🔬 Core Portfolio Focus Areas
+## 🔬 Core Portfolio & Pet Projects
 
-*Currently empty... for now. :v*  
-*But fear not! I will occasionally push (and pin) repositories for end-to-end code implementations covering:*
+*(Add your projects, repositories, and end-to-end code implementations here. Focus on quant, risk management frameworks, or any other problems you are tackling.)*
 
-### 1. 🧮 Actuarial Science & Risk Pricing
-* **`Cyber-Risk-Quantification`** *(Coming Soon)*  
-  You won't just see me posting when I pass an exam; I want to show how this stuff works in the real world. I am currently building a project focused on using frequency-severity modeling and survival analysis to mitigate the financial damage from cybersecurity breaches.
-
-### 2. 📈 Forecasting & Quantitative Finance
-* **`Volatile-Asset-Benchmarking`** *(Coming Soon)*  
-  Frameworks comparing classical statistical baselines (SARIMAX, GARCH-family models) against deep neural network architectures (LSTM, Transformers) for volatile asset forecasting. Just wait and see! :D
-* **`Financial-Copula-Modeling`** *(Coming Soon)*  
-  Evaluating parametric and nonparametric copula methods to capture tail dependencies and joint distribution behavior in blue-chip equity returns. *Because linear correlation lies to you when the market crashes.*
-
-### 3. 📐 Applied & Computational Mathematics
-* **`Numerical-Methods-Computational-Math`**  
-  Because sometimes analytical solutions don't exist and we have to force computers to approximate things efficiently. Expect numerical differential equation solvers, root-finding algorithms, and optimized scripts.
+<!-- 
+Example format:
+### 1. 🧮 [Project Category/Name]
+* **`[Repository-Name]`**
+  [Brief description of the math, stats, or risk management problem solved, methodologies used, and the impact.]
+-->
 
 ---
 
